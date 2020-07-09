@@ -49,4 +49,4 @@ THEN I am taken to the corresponding section of the README
 
 [Readme Demo Video](https://drive.google.com/file/d/1Zv5idGcqgVWAUxNINt4CSXAG2ibsR6Yq/view)
  
-![Readme screenshot](https://user-images.githubusercontent.com/66036794/87098575-3c48f880-c20d-11ea-8932-c8040c73cb96.png)
+
